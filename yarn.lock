@@ -1984,7 +1984,7 @@
 
 "@pancakeswap-libs/uikit@motherlode-finance/motherlode-uikit":
   version "0.10.2"
-  resolved "https://codeload.github.com/motherlode-finance/motherlode-uikit/tar.gz/068e017bb0f927c566a43596fb555a5818e13154"
+  resolved "https://codeload.github.com/motherlode-finance/motherlode-uikit/tar.gz/0e03603ed805d5014b8c0240a95d0024e664f90e"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
